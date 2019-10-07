@@ -7,3 +7,7 @@ Add more content phase 2
 -------------------------
 
 Add more content phase 3
+
+Here is some more content
+
+And a bit more.
